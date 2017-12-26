@@ -1,3 +1,6 @@
 [submodule "API"]
 	path = API
 	url = https://github.com/HristoHentov/Reflow-API.git
+[submodule "Client"]
+	path = Client
+	url = https://github.com/radencode/reflow-client.git
